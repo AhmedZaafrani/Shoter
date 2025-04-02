@@ -1,7 +1,6 @@
 # **Shooter Game - README**  
 
-![Game Screenshot](https://via.placeholder.com/800x400?text=Shooter+Game+Preview)  
-
+![Gameplay Demo](Assets/shoter-ezgif.com-video-to-gif-converter.gif)
 **Shooter** è un gioco sparatutto in 2D sviluppato in **C++** utilizzando la libreria **Raylib**.  
 Il giocatore controlla un personaggio che deve sopravvivere agli zombie che appaiono sullo schermo, sparando proiettili e schivando i nemici.  
 
